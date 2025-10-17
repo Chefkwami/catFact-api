@@ -14,7 +14,7 @@ export const info = async(req, res, next) => {
                 name: "Sitsofe Feyi Kwami",
                 stack: "Node.js/Express/MongoDB/Mongoose",
             },
-            timeStamp: currrentTime,
+            timestamp: currrentTime,
             fact: catFact.fact,
 
         });
